@@ -1,6 +1,6 @@
 # ROS 2 + Gazebo Harmonic docker
 
-Repozytorium zawiera kod do wykorzystania przez studentów w celu realizacji zajęć z Systemów i Algorytmów Percepcji w Pojazdach Autonomicznych (SiAPwPA) w semestrze zimowym 2024/2025.
+Repozytorium zawiera docker z ROS 2 Humble oraz Gazebo Harmonic.
 
 ## Requirements
 
